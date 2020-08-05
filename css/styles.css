@@ -3,18 +3,22 @@
   margin: 12px;
   border: 20px solid green;
   background-color: olive;
+  box-sizing: border-box;
+  text-align: center;
 }
 
 .unimportant {
   color: green;
   padding: 8px;
   background-color: burlywood;
+  box-sizing: border-box;
+  text-align: center;
 }
 
 .special {
   background-color: papayawhip;
   padding: 9px red;
   margin: 18 px;
-
-
+  box-sizing: border-box;
+  text-align: center;
 }
