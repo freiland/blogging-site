@@ -2,11 +2,11 @@
 
 #### _Excersize for Epicodus, 08/05/2020 11:51AM_
 
-#### By _**By Brycen Forrest and Chase**_
+#### By _**By Brycen, Forrest, and Chase**_
 
 ## Website Description
 
-_A website made through the epicodus program for an exersize that includes a blog about sandy river_
+_A website made through the epicodus program for an exercise that includes a blog about the Sandy River_
 
 
 ## Known Bugs
